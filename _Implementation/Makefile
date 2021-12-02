@@ -3,11 +3,11 @@ PROJ_NAME = SeatHeatApp
 BUILD_DIR = Build
 
 # All Source code files
-SRC = SeatHeatingApp.c\
-src/activity1.c\
-src/activity2.c\
-src/activity3.c\
-src/activity4.c\
+SRC = Main.c\
+src/Activity_1.c\
+src/Activity_2.c\
+src/Activity_3.c\
+src/Activity_4.c\
 
 
 #Object copy to create hexfile
