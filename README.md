@@ -1,4 +1,7 @@
 # Embedded C Programming - Seat Heating Application
+
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/fe57e74c728e43c69a40dccb2af1cecf)](https://app.codacy.com/gh/dilshadalam68/M2_Embedded_SeatHeatingApplication?utm_source=github.com&utm_medium=referral&utm_content=dilshadalam68/M2_Embedded_SeatHeatingApplication&utm_campaign=Badge_Grade_Settings)
+
 ## Activity-1 In Action
 
 |OFF|OFF|OFF|ON|
